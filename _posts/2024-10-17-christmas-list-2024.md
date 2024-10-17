@@ -27,32 +27,32 @@ categories: [christmas_list]
 
 ## CDs
 
-- Noel Gallagher's High Flying Birds - Council Skies (Deluxe 2xCD set) (https://www.amazon.co.uk/Council-Skies-Deluxe-GALLAGHERS-FLYING/dp/B0BS98Z45W/){:target="\_blank"} (£16.35)
-- Florence + the Machine - Dance Fever (Deluxe) (https://www.amazon.co.uk/dp/B09V1Q9V5L/){:target="\_blank"} (£9.49)
-- Taylor Swift - Speak Now (Taylor's Version) (https://www.amazon.co.uk/dp/B0C78K5BCK/){:target="\_blank"} (£17.60)
-- Sabrina Carpenter - Short n' Sweet Alternate Cover (from Polydor/UMG website) (https://store.polydor.co.uk/products/short-n-sweet-alternate-cover-limited-edition-international-cd){:target="\_blank"} (£11.99)
-- Ed Sheeran - +(Plus) (https://www.amazon.co.uk/Ed-Sheeran/dp/B004XZDT60/){:target="\_blank"} (£4.50)
-- Ed Sheeran - =(Equals) (https://www.amazon.co.uk/Ed-Sheeran-Bad-Habits-Shivers/dp/B09CRY341V/){:target="\_blank"} (£4.07)
+- Noel Gallagher's High Flying Birds - Council Skies (Deluxe 2xCD set) [https://www.amazon.co.uk/Council-Skies-Deluxe-GALLAGHERS-FLYING/dp/B0BS98Z45W/](https://www.amazon.co.uk/Council-Skies-Deluxe-GALLAGHERS-FLYING/dp/B0BS98Z45W/){:target="\_blank"} (£16.35)
+- Florence + the Machine - Dance Fever (Deluxe) [https://www.amazon.co.uk/dp/B09V1Q9V5L/](https://www.amazon.co.uk/dp/B09V1Q9V5L/){:target="\_blank"} (£9.49)
+- Taylor Swift - Speak Now (Taylor's Version) [https://www.amazon.co.uk/dp/B0C78K5BCK/](https://www.amazon.co.uk/dp/B0C78K5BCK/){:target="\_blank"} (£17.60)
+- Sabrina Carpenter - Short n' Sweet Alternate Cover (from Polydor/UMG website) [https://store.polydor.co.uk/products/short-n-sweet-alternate-cover-limited-edition-international-cd](https://store.polydor.co.uk/products/short-n-sweet-alternate-cover-limited-edition-international-cd){:target="\_blank"} (£11.99)
+- Ed Sheeran - +(Plus) [https://www.amazon.co.uk/Ed-Sheeran/dp/B004XZDT60/](https://www.amazon.co.uk/Ed-Sheeran/dp/B004XZDT60/){:target="\_blank"} (£4.50)
+- Ed Sheeran - =(Equals) [https://www.amazon.co.uk/Ed-Sheeran-Bad-Habits-Shivers/dp/B09CRY341V/](https://www.amazon.co.uk/Ed-Sheeran-Bad-Habits-Shivers/dp/B09CRY341V/){:target="\_blank"} (£4.07)
 
 ## Graphic Novels
 
-- Rivers of London: Here Be Dragons (https://www.amazon.co.uk/dp/1787740927/){:target="\_blank"} (£12.39)
+- Rivers of London: Here Be Dragons [https://www.amazon.co.uk/dp/1787740927/](https://www.amazon.co.uk/dp/1787740927/){:target="\_blank"} (£12.39)
 
 ## Books
 
-- The New and Improved Flask Mega-Tutorial (2024 Edition) (https://www.amazon.co.uk/dp/B0CPCTC64D/){:target="\_blank"} (£27.48)
-- Kawaii: How to draw really cute stuff (https://www.amazon.co.uk/dp/1782215751/){:target="\_blank"} (£7.55)
-- Kawaii: How to draw really cute animals (https://www.amazon.co.uk/dp/1782216596/){:target="\_blank"} (£7.85)
-- How to Draw Kawaii (https://www.amazon.co.uk/dp/1488959323/){:target="\_blank"} (£12.02)
-- Bored of Lunch - Six Ingredient Slow Cooker (not released until 5th Dec) (https://www.amazon.co.uk/Bored-Lunch-Ingredient-Slow-Cooker/dp/1529914493/){:target="\_blank"} (£10)
-- Bored of Lunch - Healthy Air Fryer 30 Minute Meals (https://www.amazon.co.uk/Bored-Lunch-Healthy-Air-Fryer/dp/1529914515/){:target="\_blank"} (£11)
-- Bored of Lunch - The Healthy Air Fryer Book (https://www.amazon.co.uk/Bored-Lunch-Healthy-Fryer-Book/dp/1529903521/){:target="\_blank"} (£9.49)
-- Pinch of Nom Air Fryer (https://www.amazon.co.uk/Pinch-Nom-Air-Fryer-Slimming/dp/1035054566/){:target="\_blank"} (£10)
+- The New and Improved Flask Mega-Tutorial (2024 Edition) [https://www.amazon.co.uk/dp/B0CPCTC64D/](https://www.amazon.co.uk/dp/B0CPCTC64D/){:target="\_blank"} (£27.48)
+- Kawaii: How to draw really cute stuff [https://www.amazon.co.uk/dp/1782215751/](https://www.amazon.co.uk/dp/1782215751/){:target="\_blank"} (£7.55)
+- Kawaii: How to draw really cute animals [https://www.amazon.co.uk/dp/1782216596/](https://www.amazon.co.uk/dp/1782216596/){:target="\_blank"} (£7.85)
+- How to Draw Kawaii [https://www.amazon.co.uk/dp/1488959323/](https://www.amazon.co.uk/dp/1488959323/){:target="\_blank"} (£12.02)
+- Bored of Lunch - Six Ingredient Slow Cooker (not released until 5th Dec) [https://www.amazon.co.uk/Bored-Lunch-Ingredient-Slow-Cooker/dp/1529914493/](https://www.amazon.co.uk/Bored-Lunch-Ingredient-Slow-Cooker/dp/1529914493/){:target="\_blank"} (£10)
+- Bored of Lunch - Healthy Air Fryer 30 Minute Meals [https://www.amazon.co.uk/Bored-Lunch-Healthy-Air-Fryer/dp/1529914515/](https://www.amazon.co.uk/Bored-Lunch-Healthy-Air-Fryer/dp/1529914515/){:target="\_blank"} (£11)
+- Bored of Lunch - The Healthy Air Fryer Book [https://www.amazon.co.uk/Bored-Lunch-Healthy-Fryer-Book/dp/1529903521/](https://www.amazon.co.uk/Bored-Lunch-Healthy-Fryer-Book/dp/1529903521/){:target="\_blank"} (£9.49)
+- Pinch of Nom Air Fryer [https://www.amazon.co.uk/Pinch-Nom-Air-Fryer-Slimming/dp/1035054566/](https://www.amazon.co.uk/Pinch-Nom-Air-Fryer-Slimming/dp/1035054566/){:target="\_blank"} (£10)
 
 ## Other Stuff
 
-- Florence + The Machine Andrea Zanatelli Daffodil Black Long Sleeve (Size XXL) (https://store.polydor.co.uk/products/andrea-zanatelli-daffodil-black-long-sleeve?variant=45414536937762){:target="\_blank"} (£35+P+P)
-- Rapesco 1725 Adjustable 6-Hole Punch, 9 Sheet Capacity, Black (https://www.amazon.co.uk/dp/B0CCVQNF6D/){:target="\_blank"} (£13.35)
-- The Galaxy Astronomy Men's Novelty Tie (https://www.tiesplanet.com/ties-c1/novelty-ties-c12/the-galaxy-astronomy-mens-novelty-tie-p17047){:target="\_blank"} (£12.99)
-- National Railway Museum Vintage Railway Posters A5 Diary (https://www.calendarclub.co.uk/national-railway-museum-vintage-railway-posters-a5-diary-2025-320747/){:target="\_blank"} (£9.99)
-- Wrendale 'A Dog's Life' Slim Calendar 2025 (https://www.wrendaledesigns.co.uk/a-dog-s-life-slim-calendar-2025){:target="\_blank"} (£8)
+- Florence + The Machine Andrea Zanatelli Daffodil Black Long Sleeve (Size XXL) [https://store.polydor.co.uk/products/andrea-zanatelli-daffodil-black-long-sleeve?variant=45414536937762](https://store.polydor.co.uk/products/andrea-zanatelli-daffodil-black-long-sleeve?variant=45414536937762){:target="\_blank"} (£35+P+P)
+- Rapesco 1725 Adjustable 6-Hole Punch, 9 Sheet Capacity, Black [https://www.amazon.co.uk/dp/B0CCVQNF6D/](https://www.amazon.co.uk/dp/B0CCVQNF6D/){:target="\_blank"} (£13.35)
+- The Galaxy Astronomy Men's Novelty Tie [https://www.tiesplanet.com/ties-c1/novelty-ties-c12/the-galaxy-astronomy-mens-novelty-tie-p17047](https://www.tiesplanet.com/ties-c1/novelty-ties-c12/the-galaxy-astronomy-mens-novelty-tie-p17047){:target="\_blank"} (£12.99)
+- National Railway Museum Vintage Railway Posters A5 Diary [https://www.calendarclub.co.uk/national-railway-museum-vintage-railway-posters-a5-diary-2025-320747/](https://www.calendarclub.co.uk/national-railway-museum-vintage-railway-posters-a5-diary-2025-320747/){:target="\_blank"} (£9.99)
+- Wrendale 'A Dog's Life' Slim Calendar 2025 [https://www.wrendaledesigns.co.uk/a-dog-s-life-slim-calendar-2025](https://www.wrendaledesigns.co.uk/a-dog-s-life-slim-calendar-2025){:target="\_blank"} (£8)
