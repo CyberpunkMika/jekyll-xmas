@@ -6,7 +6,7 @@ categories: [christmas_list]
 
 ## Soft Toys
 
-- Palm Pals Luna Bat(https://www.amazon.co.uk/dp/B0C599YKSB/)
+- Palm Pals Luna Bat [https://www.amazon.co.uk/dp/B0C599YKSB/](https://www.amazon.co.uk/dp/B0C599YKSB/)
 - Squishmallows 7.5 inch Alonzo the Brown and White Highland Cow (https://www.amazon.co.uk/dp/B0CNY5G8JL/)
 - Squishmallows 7.5 inch Hemkey the Sage Ferret (https://www.amazon.co.uk/dp/B0CNY34TP9/)
 - Squishmallows Stackable Bubba Purple Cow (https://www.amazon.co.uk/dp/B0C6TRKQ8R/)
