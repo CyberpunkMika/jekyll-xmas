@@ -1,0 +1,31 @@
+name: "Deploy to Netlify"
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    name: "Deploy to Netlify"
+    steps:
+      - uses: actions/checkout@v3
+        name: Checkout
+      - name: Build
+        run: |
+          bundle exec jekyll build
+      - uses: https://github.com/nwtgck/actions-netlify@v2.0
+        name: Deploy
+        with:
+          publish-dir: "./_site"
+          production-deploy: true
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-message: "Deployed from Gitea Action"
+          enable-commit-comment: false
+          enable-pull-request-comment: false
+          overwrites-pull-request-comment: true
+          enable-github-deployment: false
+        env:
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        timeout-minutes: 1
