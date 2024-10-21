@@ -24,6 +24,7 @@ categories: [christmas_list]
 - Starfinder Devastation Ark Dice Set - Q Workshop [https://q-workshop.com/en/rpg-dice-sets/1514/devastation-ark-dice-set](https://q-workshop.com/en/rpg-dice-sets/1514/devastation-ark-dice-set){:target="\_blank"} (£10.50)
 - Starfinder Adventure Drift Crisis Case Files - DungeonLand [https://www.dungeonland.co.uk/home/Starfinder-RPG-Drift-Crisis-Case-Files-p511000469](https://www.dungeonland.co.uk/home/Starfinder-RPG-Drift-Crisis-Case-Files-p511000469){:target="\_blank"} (£13)
 - Star Trek Adventures 2nd Edition - Zatu Games [https://www.board-game.co.uk/product/star-trek-adventures-the-roleplaying-game-second-edition-core-rulebook/](https://www.board-game.co.uk/product/star-trek-adventures-the-roleplaying-game-second-edition-core-rulebook/){:target="\_blank"} (£35.49)
+- The Electric State RPG - Magic Madhouse [https://magicmadhouse.co.uk/free-league-publishing-the-electric-state-rpg](https://magicmadhouse.co.uk/free-league-publishing-the-electric-state-rpg){:target="\_blank"} (£24.90)
 
 ## CDs
 
