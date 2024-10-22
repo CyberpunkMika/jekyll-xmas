@@ -28,20 +28,14 @@ categories: [christmas_list]
 
 ## Card and Board Games
 
-Casting Shadows Ice Storm Expansion £17.99 (also from Zatu Games) [https://travellingman.com/products/casting-shadows-ice-storm-expansion](https://travellingman.com/products/casting-shadows-ice-storm-expansion){:target="\_blank"}
+- Casting Shadows Ice Storm Expansion £17.99 (also from Zatu Games) [https://travellingman.com/products/casting-shadows-ice-storm-expansion](https://travellingman.com/products/casting-shadows-ice-storm-expansion){:target="\_blank"}
+- Command of Nature: Sand & Wind Expansion £13.70 (also from Zatu Games, Wayland Games, Asmodee UK) [https://magicmadhouse.co.uk/unstable-games-command-of-nature-sand-wind-expansion](https://magicmadhouse.co.uk/unstable-games-command-of-nature-sand-wind-expansion){:target="\_blank"}
+- The Tea Dragon Society Card Game £17.99 [https://www.board-game.co.uk/product/the-tea-dragon-society-card-game/](https://www.board-game.co.uk/product/the-tea-dragon-society-card-game/){:target="\_blank"}
+- Animals of Baker Street £22.39 (also from Waterstones) [https://www.board-game.co.uk/product/animals-of-baker-street/](https://www.board-game.co.uk/product/animals-of-baker-street/){:target="\_blank"}
 
-Command of Nature: Sand & Wind Expansion £13.70 (also from Zatu Games, Wayland Games, Asmodee UK) [https://magicmadhouse.co.uk/unstable-games-command-of-nature-sand-wind-expansion](https://magicmadhouse.co.uk/unstable-games-command-of-nature-sand-wind-expansion){:target="\_blank"}
+[Critical Role Shop](https://shop.critrole.co.uk/){:target="\_blank"}
 
-The Tea Dragon Society Card Game £17.99 [https://www.board-game.co.uk/product/the-tea-dragon-society-card-game/](https://www.board-game.co.uk/product/the-tea-dragon-society-card-game/){:target="\_blank"}
-
-Animals of Baker Street £22.39 (also from Waterstones) [https://www.board-game.co.uk/product/animals-of-baker-street/](https://www.board-game.co.uk/product/animals-of-baker-street/){:target="\_blank"}
-
-[https://shop.critrole.co.uk/](https://shop.critrole.co.uk/){:target="\_blank"}
-
-Mollymauk Tealeaf "Long May He Reign" T-Shirt, Large, £30.
-
-Essek Thelyss T-Shirt, Large, £20.
-
-Caduceus Clay Tea-Shirt, Large, £30.
-
-Mollymauk Tealeaf (and Jester Lavorre) Oracle of the Moon Tarot Deck £25.
+- [Mollymauk Tealeaf "Long May He Reign" T-Shirt, Large, £30.99](https://shop.critrole.co.uk/products/mollymauk-tealeaf-long-may-he-reign-t-shirt)
+- [Essek Thelyss T-Shirt, Large, £20.30](https://shop.critrole.co.uk/products/mollymauk-tealeaf-long-may-he-reign-t-shirt)
+- [Caduceus Clay Tea-Shirt, Large, £30.99](https://shop.critrole.co.uk/products/caduceus-clay-tea-shirt)
+- [Mollymauk Tealeaf (and Jester Lavorre) Oracle of the Moon Tarot Deck £25.99](https://shop.critrole.co.uk/products/mollymauk-tealeaf-and-jester-lavorre-oracle-of-the-moon-tarot-deck)
