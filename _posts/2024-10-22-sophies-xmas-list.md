@@ -4,10 +4,8 @@ title: Sophie's Christmas List 2024
 categories: [christmas_list]
 ---
 
-#Sophie's Christmas list
-
 After School Etude Volume 1, £10.99 (also Waterstones),
-https://travellingman.com/products/after-school-etude-volume- 1
+[https://travellingman.com/products/after-school-etude-volume-1](https://travellingman.com/products/after-school-etude-volume-1)
 
 Ogi's Summer Break, Volume 1 by Koikawa, £12.95, https://www.waterstones.com/book/ogis-
 summer-break-volume-1/koikawa/
