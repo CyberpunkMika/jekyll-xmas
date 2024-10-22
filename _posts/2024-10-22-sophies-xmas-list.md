@@ -1,4 +1,10 @@
-Sophie's Christmas list
+---
+layout: post
+title: Sophie's Christmas List 2024
+categories: [christmas_list]
+---
+
+#Sophie's Christmas list
 
 After School Etude Volume 1, £10.99 (also Waterstones),
 https://travellingman.com/products/after-school-etude-volume- 1
