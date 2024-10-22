@@ -1,181 +1,130 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-10-17T07:27:07+00:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Forever Jekyll</title><subtitle>A simple, elegant and full featured Jekyll theme</subtitle><entry><title type="html">Hello World</title><link href="http://0.0.0.0:4000/content/demo/2021/07/15/hello-world/" rel="alternate" type="text/html" title="Hello World" /><published>2021-07-15T00:00:00+00:00</published><updated>2021-07-15T00:00:00+00:00</updated><id>http://0.0.0.0:4000/content/demo/2021/07/15/hello-world</id><content type="html" xml:base="http://0.0.0.0:4000/content/demo/2021/07/15/hello-world/"><![CDATA[<p>Hello and welcome. The only purpose of this post is to greet you when your site comes alive for the first time.<br />
-This post will demonstrate some of the more common content &amp; elements found in posts.<br />
-Feel free to delete this post when you are ready to publish your first post.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-10-22T19:13:24+00:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">The Hawkins Family 2024 Christmas Lists site</title><subtitle>Their here in there full glory!</subtitle><entry><title type="html">Sophie’s Christmas List 2024</title><link href="http://0.0.0.0:4000/christmas_list/2024/10/22/sophies-xmas-list/" rel="alternate" type="text/html" title="Sophie’s Christmas List 2024" /><published>2024-10-22T00:00:00+00:00</published><updated>2024-10-22T00:00:00+00:00</updated><id>http://0.0.0.0:4000/christmas_list/2024/10/22/sophies-xmas-list</id><content type="html" xml:base="http://0.0.0.0:4000/christmas_list/2024/10/22/sophies-xmas-list/"><![CDATA[<p>After School Etude Volume 1, £10.99 (also Waterstones),
+<a href="https://travellingman.com/products/after-school-etude-volume-1">https://travellingman.com/products/after-school-etude-volume-1</a></p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</p>
+<p>Ogi’s Summer Break, Volume 1 by Koikawa, £12.95, https://www.waterstones.com/book/ogis-
+summer-break-volume-1/koikawa/</p>
 
-<h2 id="some-great-heading-h2">Some great heading (h2)</h2>
+<p>After We Gazed at the Starry Sky Volume 1 (also Forbidden Planet), £10.99,
+https://travellingman.com/collections/yaoi/products/after-we-gazed-at-the-starry-sky-volume-
+1</p>
 
-<p>Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
-&lt;!–more–</p>
+<p>Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! Vol 1 by Yuu Toyota (also
+Forbidden Planet), https://www.waterstones.com/book/cherry-magic-thirty-years-of-virginity-
+can-make-you-a-wizard-1/yuu-toyota/</p>
 
-<p>Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+<p>The Snake Who Loved A Sparrow, £12.99,
+https://travellingman.com/collections/yaoi/products/the-snake-who-loved-a-sparrow</p>
 
-<h2 id="another-great-heading-h2">Another great heading (h2)</h2>
+<p>Old-Fashioned Cupcake With Cappuccino, £6.99,
+https://travellingman.com/collections/yaoi/products/old-fashioned-cupcake-with-cappuccino</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</p>
+<p>World’s End Blue Bird Volume 1, £12.99, https://travellingman.com/products/worlds-end-blue-
+bird-volume- 1</p>
 
-<h3 id="some-great-subheading-h3">Some great subheading (h3)</h3>
+<p>Spread Your Wings and Fly, £12.99, https://travellingman.com/products/spread-your-wings-
+and-fly</p>
 
-<p>Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.</p>
+<p>Original Squishmallows 7.5-inch - Minerva the Aqua Griffin, £9.00, Argos</p>
 
-<p>Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.</p>
+<p>This Fatal Kiss by Alicia Jasinska (hardback), £17.99,
+https://blackwells.co.uk/bookshop/product/This-Fatal-Kiss-by-Alicia-Jasinska/</p>
 
-<h3 id="some-great-subheading-h3-1">Some great subheading (h3)</h3>
+<p>The Buried and the Bound by Rochelle Hassan (Paperback) (also Waterstones, Forbidden
+Planet), £10.99, https://www.queerlit.co.uk/products/the-buried-and-the-bound-
+paperback?_pos=3&amp;_psq=the+buried+and+the+&amp;_ss=e&amp;_v=1.</p>
 
-<p>Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+<p>The Devouring Wolf by Natalie C. Parker (Paperback) (also Forbidden Planet), £7.99,
+https://www.queerlit.co.uk/products/the-devouring-wolf-
+1?_pos=3&amp;_psq=the+devouring+&amp;_ss=e&amp;_v=1.</p>
 
-<blockquote>
-  <p>This quote will <em>change</em> your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don’t <em>misuse</em> it.</p>
-</blockquote>
+<p>The Ojja-Wojja by Magdalene Visaggio (Paperback), £12.99,
+https://www.queerlit.co.uk/products/the-ojja-wojja?_pos=2&amp;_psq=the+oj&amp;_ss=e&amp;_v=1.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.</p>
+<p>Casting Shadows Ice Storm Expansion £17.99 (also from Zatu Games)
+https://travellingman.com/products/casting-shadows-ice-storm-expansion</p>
 
-<h3 id="some-great-subheading-h3-2">Some great subheading (h3)</h3>
+<p>Command of Nature: Sand &amp; Wind Expansion £13.70 (also from Zatu Games, Wayland Games,
+Asmodee UK) https://magicmadhouse.co.uk/unstable-games-command-of-nature-sand-wind-
+expansion</p>
 
-<p>Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.</p>
+<p>The Tea Dragon Society Card Game £17.99 https://www.board-game.co.uk/product/the-tea-
+dragon-society-card-
+game/?srsltid=AfmBOorYIjqrxqRz49MvdHBls4wPPnX_jROsW5H72_2r0ySgQ8tWwteq</p>
 
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+<p>Animals of Baker Street £22.39 (also from Waterstones) https://www.board-
+game.co.uk/product/animals-of-baker-
+street/?srsltid=AfmBOorBtmRkbU8lz_im9X7Bi8nmPDCQHo2TJ686qJ4QXFe24KfIGUbF</p>
 
-<h4 id="you-might-want-a-sub-subheading-h4">You might want a sub-subheading (h4)</h4>
+<p>https://shop.critrole.co.uk/</p>
 
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+<p>Mollymauk Tealeaf “Long May He Reign” T-Shirt, Large, £30.</p>
 
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+<p>Essek Thelyss T-Shirt, Large, £20.</p>
 
-<h4 id="but-its-probably-overkill-h4">But it’s probably overkill (h4)</h4>
+<p>Caduceus Clay Tea-Shirt, Large, £30.</p>
 
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
-
-<h5 id="could-be-a-smaller-sub-heading-pacman-h5">Could be a smaller sub-heading, <code class="language-plaintext highlighter-rouge">pacman</code> (h5)</h5>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
-
-<h6 id="small-yet-significant-sub-heading--h6">Small yet significant sub-heading  (h6)</h6>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
-
-<h3 id="highlight-the-code-please">Highlight the code please!!</h3>
-
-<figure class="highlight"><pre><code class="language-c" data-lang="c"><span class="kt">float</span> <span class="nf">Q_rsqrt</span><span class="p">(</span> <span class="kt">float</span> <span class="n">number</span> <span class="p">)</span>
-<span class="p">{</span>
-	<span class="kt">long</span> <span class="n">i</span><span class="p">;</span>
-	<span class="kt">float</span> <span class="n">x2</span><span class="p">,</span> <span class="n">y</span><span class="p">;</span>
-	<span class="k">const</span> <span class="kt">float</span> <span class="n">threehalfs</span> <span class="o">=</span> <span class="mi">1</span><span class="p">.</span><span class="mi">5</span><span class="n">F</span><span class="p">;</span>
-
-	<span class="n">x2</span> <span class="o">=</span> <span class="n">number</span> <span class="o">*</span> <span class="mi">0</span><span class="p">.</span><span class="mi">5</span><span class="n">F</span><span class="p">;</span>
-	<span class="n">y</span>  <span class="o">=</span> <span class="n">number</span><span class="p">;</span>
-	<span class="n">i</span>  <span class="o">=</span> <span class="o">*</span> <span class="p">(</span> <span class="kt">long</span> <span class="o">*</span> <span class="p">)</span> <span class="o">&amp;</span><span class="n">y</span><span class="p">;</span>                       <span class="c1">// evil floating point bit level hacking</span>
-	<span class="n">i</span>  <span class="o">=</span> <span class="mh">0x5f3759df</span> <span class="o">-</span> <span class="p">(</span> <span class="n">i</span> <span class="o">&gt;&gt;</span> <span class="mi">1</span> <span class="p">);</span>               <span class="c1">// what the fuck? </span>
-	<span class="n">y</span>  <span class="o">=</span> <span class="o">*</span> <span class="p">(</span> <span class="kt">float</span> <span class="o">*</span> <span class="p">)</span> <span class="o">&amp;</span><span class="n">i</span><span class="p">;</span>
-	<span class="n">y</span>  <span class="o">=</span> <span class="n">y</span> <span class="o">*</span> <span class="p">(</span> <span class="n">threehalfs</span> <span class="o">-</span> <span class="p">(</span> <span class="n">x2</span> <span class="o">*</span> <span class="n">y</span> <span class="o">*</span> <span class="n">y</span> <span class="p">)</span> <span class="p">);</span>   <span class="c1">// 1st iteration</span>
-<span class="c1">//	y  = y * ( threehalfs - ( x2 * y * y ) );   // 2nd iteration, this can be removed</span>
-
-	<span class="k">return</span> <span class="n">y</span><span class="p">;</span>
-<span class="p">}</span></code></pre></figure>
-
-<h3 id="oh-hai-an-unordered-list">Oh hai, an unordered list!!</h3>
-
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+<p>Mollymauk Tealeaf (and Jester Lavorre) Oracle of the Moon Tarot Deck £25.</p>]]></content><author><name></name></author><category term="christmas_list" /><summary type="html"><![CDATA[After School Etude Volume 1, £10.99 (also Waterstones), https://travellingman.com/products/after-school-etude-volume-1 Ogi’s Summer Break, Volume 1 by Koikawa, £12.95, https://www.waterstones.com/book/ogis- summer-break-volume-1/koikawa/ After We Gazed at the Starry Sky Volume 1 (also Forbidden Planet), £10.99, https://travellingman.com/collections/yaoi/products/after-we-gazed-at-the-starry-sky-volume- 1 Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! Vol 1 by Yuu Toyota (also Forbidden Planet), https://www.waterstones.com/book/cherry-magic-thirty-years-of-virginity- can-make-you-a-wizard-1/yuu-toyota/ The Snake Who Loved A Sparrow, £12.99, https://travellingman.com/collections/yaoi/products/the-snake-who-loved-a-sparrow Old-Fashioned Cupcake With Cappuccino, £6.99, https://travellingman.com/collections/yaoi/products/old-fashioned-cupcake-with-cappuccino World’s End Blue Bird Volume 1, £12.99, https://travellingman.com/products/worlds-end-blue- bird-volume- 1 Spread Your Wings and Fly, £12.99, https://travellingman.com/products/spread-your-wings- and-fly Original Squishmallows 7.5-inch - Minerva the Aqua Griffin, £9.00, Argos This Fatal Kiss by Alicia Jasinska (hardback), £17.99, https://blackwells.co.uk/bookshop/product/This-Fatal-Kiss-by-Alicia-Jasinska/ The Buried and the Bound by Rochelle Hassan (Paperback) (also Waterstones, Forbidden Planet), £10.99, https://www.queerlit.co.uk/products/the-buried-and-the-bound- paperback?_pos=3&amp;_psq=the+buried+and+the+&amp;_ss=e&amp;_v=1. The Devouring Wolf by Natalie C. Parker (Paperback) (also Forbidden Planet), £7.99, https://www.queerlit.co.uk/products/the-devouring-wolf- 1?_pos=3&amp;_psq=the+devouring+&amp;_ss=e&amp;_v=1. The Ojja-Wojja by Magdalene Visaggio (Paperback), £12.99, https://www.queerlit.co.uk/products/the-ojja-wojja?_pos=2&amp;_psq=the+oj&amp;_ss=e&amp;_v=1. Casting Shadows Ice Storm Expansion £17.99 (also from Zatu Games) https://travellingman.com/products/casting-shadows-ice-storm-expansion Command of Nature: Sand &amp; Wind Expansion £13.70 (also from Zatu Games, Wayland Games, Asmodee UK) https://magicmadhouse.co.uk/unstable-games-command-of-nature-sand-wind- expansion The Tea Dragon Society Card Game £17.99 https://www.board-game.co.uk/product/the-tea- dragon-society-card- game/?srsltid=AfmBOorYIjqrxqRz49MvdHBls4wPPnX_jROsW5H72_2r0ySgQ8tWwteq Animals of Baker Street £22.39 (also from Waterstones) https://www.board- game.co.uk/product/animals-of-baker- street/?srsltid=AfmBOorBtmRkbU8lz_im9X7Bi8nmPDCQHo2TJ686qJ4QXFe24KfIGUbF https://shop.critrole.co.uk/ Mollymauk Tealeaf “Long May He Reign” T-Shirt, Large, £30. Essek Thelyss T-Shirt, Large, £20. Caduceus Clay Tea-Shirt, Large, £30. Mollymauk Tealeaf (and Jester Lavorre) Oracle of the Moon Tarot Deck £25.]]></summary></entry><entry><title type="html">Christmas List 2024</title><link href="http://0.0.0.0:4000/christmas_list/2024/10/17/christmas-list-2024/" rel="alternate" type="text/html" title="Christmas List 2024" /><published>2024-10-17T00:00:00+00:00</published><updated>2024-10-17T00:00:00+00:00</updated><id>http://0.0.0.0:4000/christmas_list/2024/10/17/christmas-list-2024</id><content type="html" xml:base="http://0.0.0.0:4000/christmas_list/2024/10/17/christmas-list-2024/"><![CDATA[<h2 id="soft-toys">Soft Toys</h2>
 
 <ul>
-  <li>First item, yo</li>
-  <li>Second item, dawg</li>
-  <li>Third item, what what?!</li>
-  <li>Fourth item, fo sheezy my neezy</li>
+  <li>Palm Pals Luna Bat <a href="https://www.amazon.co.uk/dp/B0C599YKSB/" target="\_blank">https://www.amazon.co.uk/dp/B0C599YKSB/</a></li>
+  <li>Squishmallows 7.5 inch Alonzo the Brown and White Highland Cow <a href="https://www.amazon.co.uk/dp/B0CNY5G8JL/">https://www.amazon.co.uk/dp/B0CNY5G8JL/</a></li>
+  <li>Squishmallows 7.5 inch Hemkey the Sage Ferret <a href="https://www.amazon.co.uk/dp/B0CNY34TP9/" target="\_blank">https://www.amazon.co.uk/dp/B0CNY34TP9/</a></li>
+  <li>Squishmallows Stackable Bubba Purple Cow <a href="https://www.amazon.co.uk/dp/B0C6TRKQ8R/" target="\_blank">https://www.amazon.co.uk/dp/B0C6TRKQ8R/</a></li>
+  <li>Squishmallows 7.5 inch Boyle the Bat (Blue + Pink) (Asda or Smyth’s Toys)</li>
+  <li>Original Squishmallows Fuzz-A-Mallows 30cm Drew the Green Dragon Plush <a href="https://www.smythstoys.com/uk/en-gb/toys/fashion-and-dolls/squishmallows/30cm-squishmallows/original-squishmallows-fuzz-a-mallows-30cm-drew-the-green-dragon-plush/p/237664" target="\_blank">https://www.smythstoys.com/uk/en-gb/toys/fashion-and-dolls/squishmallows/30cm-squishmallows/original-squishmallows-fuzz-a-mallows-30cm-drew-the-green-dragon-plush/p/237664</a></li>
 </ul>
 
-<h3 id="oh-hai-an-ordered-list">Oh hai, an ordered list!!</h3>
+<h2 id="rpg-stuff">RPG Stuff</h2>
 
-<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+<ul>
+  <li>A Life Well Lived (Cubicle 7) - Magic Madhouse <a href="https://magicmadhouse.co.uk/cubicle-7-entertainment-vault-5e-a-life-well-lived" target="\_blank">https://magicmadhouse.co.uk/cubicle-7-entertainment-vault-5e-a-life-well-lived</a> (£21.50)</li>
+  <li>Be Like A Crow ‘Full Nest Bundle’ - A Solo RPG - CritKit <a href="https://www.criticalkit.co.uk/products/be-like-a-crow-full-nest-bundle-1" target="\_blank">https://www.criticalkit.co.uk/products/be-like-a-crow-full-nest-bundle-1</a> (£23.99)</li>
+  <li>Critical Role Chibi Pin no. 28 Laudna - CritKit <a href="https://www.criticalkit.co.uk/products/critical-role-chibi-pin-no-28-laudna" target="\_blank">https://www.criticalkit.co.uk/products/critical-role-chibi-pin-no-28-laudna</a> (£10.99)</li>
+  <li>Starfinder Alien Archive 2 Pocket Edition - Abebooks <a href="https://www.abebooks.co.uk/book-search/title/starfinder-rpg-alien-archive/author/augunas-alexander/" target="\_blank">https://www.abebooks.co.uk/book-search/title/starfinder-rpg-alien-archive/author/augunas-alexander/</a> (£20ish)</li>
+  <li>Tal’Dorei Campaign Setting Reborn - Zatu Games <a href="https://www.board-game.co.uk/product/taldorei-campaign-setting-reborn/" target="\_blank">https://www.board-game.co.uk/product/taldorei-campaign-setting-reborn/</a> (£35.49)</li>
+  <li>Starfinder Dice Set - Q Workshop <a href="https://q-workshop.com/en/rpg-dice-sets/1136/starfinder-dice-set-7" target="\_blank">https://q-workshop.com/en/rpg-dice-sets/1136/starfinder-dice-set-7</a> (£10.50)</li>
+  <li>Starfinder Devastation Ark Dice Set - Q Workshop <a href="https://q-workshop.com/en/rpg-dice-sets/1514/devastation-ark-dice-set" target="\_blank">https://q-workshop.com/en/rpg-dice-sets/1514/devastation-ark-dice-set</a> (£10.50)</li>
+  <li>Starfinder Adventure Drift Crisis Case Files - DungeonLand <a href="https://www.dungeonland.co.uk/home/Starfinder-RPG-Drift-Crisis-Case-Files-p511000469" target="\_blank">https://www.dungeonland.co.uk/home/Starfinder-RPG-Drift-Crisis-Case-Files-p511000469</a> (£13)</li>
+  <li>Star Trek Adventures 2nd Edition - Zatu Games <a href="https://www.board-game.co.uk/product/star-trek-adventures-the-roleplaying-game-second-edition-core-rulebook/" target="\_blank">https://www.board-game.co.uk/product/star-trek-adventures-the-roleplaying-game-second-edition-core-rulebook/</a> (£35.49)</li>
+  <li>The Electric State RPG - Magic Madhouse <a href="https://magicmadhouse.co.uk/free-league-publishing-the-electric-state-rpg" target="\_blank">https://magicmadhouse.co.uk/free-league-publishing-the-electric-state-rpg</a> (£24.90)</li>
+</ul>
 
-<ol>
-  <li>First item, yo</li>
-  <li>Second item, dawg</li>
-  <li>Third item, what what?!</li>
-  <li>Fourth item, fo sheezy my neezy</li>
-</ol>
+<h2 id="cds">CDs</h2>
 
-<h2 id="headings-are-cool-h2">Headings are cool! (h2)</h2>
+<ul>
+  <li>Noel Gallagher’s High Flying Birds - Council Skies (Deluxe 2xCD set) <a href="https://www.amazon.co.uk/Council-Skies-Deluxe-GALLAGHERS-FLYING/dp/B0BS98Z45W/" target="\_blank">https://www.amazon.co.uk/Council-Skies-Deluxe-GALLAGHERS-FLYING/dp/B0BS98Z45W/</a> (£16.35)</li>
+  <li>Florence + the Machine - Dance Fever (Deluxe) <a href="https://www.amazon.co.uk/dp/B09V1Q9V5L/" target="\_blank">https://www.amazon.co.uk/dp/B09V1Q9V5L/</a> (£9.49)</li>
+  <li>Taylor Swift - Speak Now (Taylor’s Version) <a href="https://www.amazon.co.uk/dp/B0C78K5BCK/" target="\_blank">https://www.amazon.co.uk/dp/B0C78K5BCK/</a> (£17.60)</li>
+  <li>Sabrina Carpenter - Short n’ Sweet Alternate Cover (from Polydor/UMG website) <a href="https://store.polydor.co.uk/products/short-n-sweet-alternate-cover-limited-edition-international-cd" target="\_blank">https://store.polydor.co.uk/products/short-n-sweet-alternate-cover-limited-edition-international-cd</a> (£11.99)</li>
+  <li>Ed Sheeran - +(Plus) <a href="https://www.amazon.co.uk/Ed-Sheeran/dp/B004XZDT60/" target="\_blank">https://www.amazon.co.uk/Ed-Sheeran/dp/B004XZDT60/</a> (£4.50)</li>
+  <li>Ed Sheeran - =(Equals) <a href="https://www.amazon.co.uk/Ed-Sheeran-Bad-Habits-Shivers/dp/B09CRY341V/" target="\_blank">https://www.amazon.co.uk/Ed-Sheeran-Bad-Habits-Shivers/dp/B09CRY341V/</a> (£4.07)</li>
+</ul>
 
-<p>Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+<h2 id="graphic-novels">Graphic Novels</h2>
 
-<p>Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+<ul>
+  <li>Rivers of London: Here Be Dragons <a href="https://www.amazon.co.uk/dp/1787740927/" target="\_blank">https://www.amazon.co.uk/dp/1787740927/</a> (£12.39)</li>
+</ul>
 
-<p>Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.</p>
+<h2 id="books">Books</h2>
 
-<h3 id="tables">Tables</h3>
+<ul>
+  <li>The New and Improved Flask Mega-Tutorial (2024 Edition) <a href="https://www.amazon.co.uk/dp/B0CPCTC64D/" target="\_blank">https://www.amazon.co.uk/dp/B0CPCTC64D/</a> (£27.48)</li>
+  <li>Kawaii: How to draw really cute stuff <a href="https://www.amazon.co.uk/dp/1782215751/" target="\_blank">https://www.amazon.co.uk/dp/1782215751/</a> (£7.55)</li>
+  <li>Kawaii: How to draw really cute animals <a href="https://www.amazon.co.uk/dp/1782216596/" target="\_blank">https://www.amazon.co.uk/dp/1782216596/</a> (£7.85)</li>
+  <li>How to Draw Kawaii <a href="https://www.amazon.co.uk/dp/1488959323/" target="\_blank">https://www.amazon.co.uk/dp/1488959323/</a> (£12.02)</li>
+  <li>Bored of Lunch - Six Ingredient Slow Cooker (not released until 5th Dec) <a href="https://www.amazon.co.uk/Bored-Lunch-Ingredient-Slow-Cooker/dp/1529914493/" target="\_blank">https://www.amazon.co.uk/Bored-Lunch-Ingredient-Slow-Cooker/dp/1529914493/</a> (£10)</li>
+  <li>Bored of Lunch - Healthy Air Fryer 30 Minute Meals <a href="https://www.amazon.co.uk/Bored-Lunch-Healthy-Air-Fryer/dp/1529914515/" target="\_blank">https://www.amazon.co.uk/Bored-Lunch-Healthy-Air-Fryer/dp/1529914515/</a> (£11)</li>
+  <li>Bored of Lunch - The Healthy Air Fryer Book <a href="https://www.amazon.co.uk/Bored-Lunch-Healthy-Fryer-Book/dp/1529903521/" target="\_blank">https://www.amazon.co.uk/Bored-Lunch-Healthy-Fryer-Book/dp/1529903521/</a> (£9.49)</li>
+  <li>Pinch of Nom Air Fryer <a href="https://www.amazon.co.uk/Pinch-Nom-Air-Fryer-Slimming/dp/1035054566/" target="\_blank">https://www.amazon.co.uk/Pinch-Nom-Air-Fryer-Slimming/dp/1035054566/</a> (£10)</li>
+</ul>
 
-<table>
-  <thead>
-    <tr>
-      <th>Title 1</th>
-      <th>Title 2</th>
-      <th>Title 3</th>
-      <th>Title 4</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>lorem</td>
-      <td>lorem ipsum</td>
-      <td>lorem ipsum dolor</td>
-      <td>lorem ipsum dolor sit</td>
-    </tr>
-    <tr>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-    </tr>
-    <tr>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-    </tr>
-    <tr>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit</td>
-    </tr>
-  </tbody>
-</table>
+<h2 id="other-stuff">Other Stuff</h2>
 
-<table>
-  <thead>
-    <tr>
-      <th>Title 1</th>
-      <th>Title 2</th>
-      <th>Title 3</th>
-      <th>Title 4</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>lorem</td>
-      <td>lorem ipsum</td>
-      <td>lorem ipsum dolor</td>
-      <td>lorem ipsum dolor sit</td>
-    </tr>
-    <tr>
-      <td>lorem ipsum dolor sit amet</td>
-      <td>lorem ipsum dolor sit amet consectetur</td>
-      <td>lorem ipsum dolor sit amet</td>
-      <td>lorem ipsum dolor sit</td>
-    </tr>
-    <tr>
-      <td>lorem ipsum dolor</td>
-      <td>lorem ipsum</td>
-      <td>lorem</td>
-      <td>lorem ipsum</td>
-    </tr>
-    <tr>
-      <td>lorem ipsum dolor</td>
-      <td>lorem ipsum dolor sit</td>
-      <td>lorem ipsum dolor sit amet</td>
-      <td>lorem ipsum dolor sit amet consectetur</td>
-    </tr>
-  </tbody>
-</table>]]></content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html"><![CDATA[Hello and welcome. The only purpose of this post is to greet you when your site comes alive for the first time. This post will demonstrate some of the more common content &amp; elements found in posts. Feel free to delete this post when you are ready to publish your first post. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Some great heading (h2) Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. &lt;!–more– Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Another great heading (h2) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Some great subheading (h3) Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Some great subheading (h3) Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. This quote will change your life. It will reveal the secrets of the universe, and all the wonders of humanity. Don’t misuse it. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Some great subheading (h3) Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. You might want a sub-subheading (h4) In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. But it’s probably overkill (h4) In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Could be a smaller sub-heading, pacman (h5) In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Small yet significant sub-heading (h6) In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Highlight the code please!! float Q_rsqrt( float number ) { long i; float x2, y; const float threehalfs = 1.5F; x2 = number * 0.5F; y = number; i = * ( long * ) &amp;y; // evil floating point bit level hacking i = 0x5f3759df - ( i &gt;&gt; 1 ); // what the fuck? y = * ( float * ) &amp;i; y = y * ( threehalfs - ( x2 * y * y ) ); // 1st iteration // y = y * ( threehalfs - ( x2 * y * y ) ); // 2nd iteration, this can be removed return y; } Oh hai, an unordered list!! In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. First item, yo Second item, dawg Third item, what what?! Fourth item, fo sheezy my neezy Oh hai, an ordered list!! In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. First item, yo Second item, dawg Third item, what what?! Fourth item, fo sheezy my neezy Headings are cool! (h2) Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Tables Title 1 Title 2 Title 3 Title 4 lorem lorem ipsum lorem ipsum dolor lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit lorem ipsum dolor sit Title 1 Title 2 Title 3 Title 4 lorem lorem ipsum lorem ipsum dolor lorem ipsum dolor sit lorem ipsum dolor sit amet lorem ipsum dolor sit amet consectetur lorem ipsum dolor sit amet lorem ipsum dolor sit lorem ipsum dolor lorem ipsum lorem lorem ipsum lorem ipsum dolor lorem ipsum dolor sit lorem ipsum dolor sit amet lorem ipsum dolor sit amet consectetur]]></summary></entry></feed>
+<ul>
+  <li>Florence + The Machine Andrea Zanatelli Daffodil Black Long Sleeve (Size XXL) <a href="https://store.polydor.co.uk/products/andrea-zanatelli-daffodil-black-long-sleeve?variant=45414536937762" target="\_blank">https://store.polydor.co.uk/products/andrea-zanatelli-daffodil-black-long-sleeve?variant=45414536937762</a> (£35+P+P)</li>
+  <li>Rapesco 1725 Adjustable 6-Hole Punch, 9 Sheet Capacity, Black <a href="https://www.amazon.co.uk/dp/B0CCVQNF6D/" target="\_blank">https://www.amazon.co.uk/dp/B0CCVQNF6D/</a> (£13.35)</li>
+  <li>The Galaxy Astronomy Men’s Novelty Tie <a href="https://www.tiesplanet.com/ties-c1/novelty-ties-c12/the-galaxy-astronomy-mens-novelty-tie-p17047" target="\_blank">https://www.tiesplanet.com/ties-c1/novelty-ties-c12/the-galaxy-astronomy-mens-novelty-tie-p17047</a> (£12.99)</li>
+  <li>National Railway Museum Vintage Railway Posters A5 Diary <a href="https://www.calendarclub.co.uk/national-railway-museum-vintage-railway-posters-a5-diary-2025-320747/" target="\_blank">https://www.calendarclub.co.uk/national-railway-museum-vintage-railway-posters-a5-diary-2025-320747/</a> (£9.99)</li>
+  <li>Wrendale ‘A Dog’s Life’ Slim Calendar 2025 <a href="https://www.wrendaledesigns.co.uk/a-dog-s-life-slim-calendar-2025" target="\_blank">https://www.wrendaledesigns.co.uk/a-dog-s-life-slim-calendar-2025</a> (£8)</li>
+</ul>]]></content><author><name></name></author><category term="christmas_list" /><summary type="html"><![CDATA[Soft Toys Palm Pals Luna Bat https://www.amazon.co.uk/dp/B0C599YKSB/ Squishmallows 7.5 inch Alonzo the Brown and White Highland Cow https://www.amazon.co.uk/dp/B0CNY5G8JL/ Squishmallows 7.5 inch Hemkey the Sage Ferret https://www.amazon.co.uk/dp/B0CNY34TP9/ Squishmallows Stackable Bubba Purple Cow https://www.amazon.co.uk/dp/B0C6TRKQ8R/ Squishmallows 7.5 inch Boyle the Bat (Blue + Pink) (Asda or Smyth’s Toys) Original Squishmallows Fuzz-A-Mallows 30cm Drew the Green Dragon Plush https://www.smythstoys.com/uk/en-gb/toys/fashion-and-dolls/squishmallows/30cm-squishmallows/original-squishmallows-fuzz-a-mallows-30cm-drew-the-green-dragon-plush/p/237664 RPG Stuff A Life Well Lived (Cubicle 7) - Magic Madhouse https://magicmadhouse.co.uk/cubicle-7-entertainment-vault-5e-a-life-well-lived (£21.50) Be Like A Crow ‘Full Nest Bundle’ - A Solo RPG - CritKit https://www.criticalkit.co.uk/products/be-like-a-crow-full-nest-bundle-1 (£23.99) Critical Role Chibi Pin no. 28 Laudna - CritKit https://www.criticalkit.co.uk/products/critical-role-chibi-pin-no-28-laudna (£10.99) Starfinder Alien Archive 2 Pocket Edition - Abebooks https://www.abebooks.co.uk/book-search/title/starfinder-rpg-alien-archive/author/augunas-alexander/ (£20ish) Tal’Dorei Campaign Setting Reborn - Zatu Games https://www.board-game.co.uk/product/taldorei-campaign-setting-reborn/ (£35.49) Starfinder Dice Set - Q Workshop https://q-workshop.com/en/rpg-dice-sets/1136/starfinder-dice-set-7 (£10.50) Starfinder Devastation Ark Dice Set - Q Workshop https://q-workshop.com/en/rpg-dice-sets/1514/devastation-ark-dice-set (£10.50) Starfinder Adventure Drift Crisis Case Files - DungeonLand https://www.dungeonland.co.uk/home/Starfinder-RPG-Drift-Crisis-Case-Files-p511000469 (£13) Star Trek Adventures 2nd Edition - Zatu Games https://www.board-game.co.uk/product/star-trek-adventures-the-roleplaying-game-second-edition-core-rulebook/ (£35.49) The Electric State RPG - Magic Madhouse https://magicmadhouse.co.uk/free-league-publishing-the-electric-state-rpg (£24.90) CDs Noel Gallagher’s High Flying Birds - Council Skies (Deluxe 2xCD set) https://www.amazon.co.uk/Council-Skies-Deluxe-GALLAGHERS-FLYING/dp/B0BS98Z45W/ (£16.35) Florence + the Machine - Dance Fever (Deluxe) https://www.amazon.co.uk/dp/B09V1Q9V5L/ (£9.49) Taylor Swift - Speak Now (Taylor’s Version) https://www.amazon.co.uk/dp/B0C78K5BCK/ (£17.60) Sabrina Carpenter - Short n’ Sweet Alternate Cover (from Polydor/UMG website) https://store.polydor.co.uk/products/short-n-sweet-alternate-cover-limited-edition-international-cd (£11.99) Ed Sheeran - +(Plus) https://www.amazon.co.uk/Ed-Sheeran/dp/B004XZDT60/ (£4.50) Ed Sheeran - =(Equals) https://www.amazon.co.uk/Ed-Sheeran-Bad-Habits-Shivers/dp/B09CRY341V/ (£4.07) Graphic Novels Rivers of London: Here Be Dragons https://www.amazon.co.uk/dp/1787740927/ (£12.39) Books The New and Improved Flask Mega-Tutorial (2024 Edition) https://www.amazon.co.uk/dp/B0CPCTC64D/ (£27.48) Kawaii: How to draw really cute stuff https://www.amazon.co.uk/dp/1782215751/ (£7.55) Kawaii: How to draw really cute animals https://www.amazon.co.uk/dp/1782216596/ (£7.85) How to Draw Kawaii https://www.amazon.co.uk/dp/1488959323/ (£12.02) Bored of Lunch - Six Ingredient Slow Cooker (not released until 5th Dec) https://www.amazon.co.uk/Bored-Lunch-Ingredient-Slow-Cooker/dp/1529914493/ (£10) Bored of Lunch - Healthy Air Fryer 30 Minute Meals https://www.amazon.co.uk/Bored-Lunch-Healthy-Air-Fryer/dp/1529914515/ (£11) Bored of Lunch - The Healthy Air Fryer Book https://www.amazon.co.uk/Bored-Lunch-Healthy-Fryer-Book/dp/1529903521/ (£9.49) Pinch of Nom Air Fryer https://www.amazon.co.uk/Pinch-Nom-Air-Fryer-Slimming/dp/1035054566/ (£10) Other Stuff Florence + The Machine Andrea Zanatelli Daffodil Black Long Sleeve (Size XXL) https://store.polydor.co.uk/products/andrea-zanatelli-daffodil-black-long-sleeve?variant=45414536937762 (£35+P+P) Rapesco 1725 Adjustable 6-Hole Punch, 9 Sheet Capacity, Black https://www.amazon.co.uk/dp/B0CCVQNF6D/ (£13.35) The Galaxy Astronomy Men’s Novelty Tie https://www.tiesplanet.com/ties-c1/novelty-ties-c12/the-galaxy-astronomy-mens-novelty-tie-p17047 (£12.99) National Railway Museum Vintage Railway Posters A5 Diary https://www.calendarclub.co.uk/national-railway-museum-vintage-railway-posters-a5-diary-2025-320747/ (£9.99) Wrendale ‘A Dog’s Life’ Slim Calendar 2025 https://www.wrendaledesigns.co.uk/a-dog-s-life-slim-calendar-2025 (£8)]]></summary></entry></feed>
