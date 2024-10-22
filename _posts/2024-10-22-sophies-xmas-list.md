@@ -6,7 +6,7 @@ categories: [christmas_list]
 
 After School Etude Volume 1, £10.99 (also Waterstones), [https://travellingman.com/products/after-school-etude-volume-1](https://travellingman.com/products/after-school-etude-volume-1){:target="\_blank"}
 
-Ogi's Summer Break, Volume 1 by Koikawa, £12.95, [https://www.waterstones.com/book/ogis-summer-break-volume-1/koikawa/](https://www.waterstones.com/book/ogis-summer-break-volume-1/koikawa/){:target="\_blank"}
+Ogi's Summer Break, Volume 1 by Koikawa, £12.95, [https://www.waterstones.com/book/ogis-summer-break-volume-1/koikawa/9781427873217](https://www.waterstones.com/book/ogis-summer-break-volume-1/koikawa/9781427873217){:target="\_blank"}
 
 After We Gazed at the Starry Sky Volume 1 (also Forbidden Planet), £10.99, [https://travellingman.com/collections/yaoi/products/after-we-gazed-at-the-starry-sky-volume-1](https://travellingman.com/collections/yaoi/products/after-we-gazed-at-the-starry-sky-volume-1){:target="\_blank"}
 
