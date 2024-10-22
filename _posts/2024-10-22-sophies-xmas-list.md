@@ -4,40 +4,27 @@ title: Sophie's Christmas List 2024
 categories: [christmas_list]
 ---
 
-After School Etude Volume 1, £10.99 (also Waterstones),
-[https://travellingman.com/products/after-school-etude-volume-1](https://travellingman.com/products/after-school-etude-volume-1)
+After School Etude Volume 1, £10.99 (also Waterstones), [https://travellingman.com/products/after-school-etude-volume-1](https://travellingman.com/products/after-school-etude-volume-1)
 
-Ogi's Summer Break, Volume 1 by Koikawa, £12.95, https://www.waterstones.com/book/ogis-
-summer-break-volume-1/koikawa/
+Ogi's Summer Break, Volume 1 by Koikawa, £12.95, [https://www.waterstones.com/book/ogis-summer-break-volume-1/koikawa/](https://www.waterstones.com/book/ogis-summer-break-volume-1/koikawa/)
 
-After We Gazed at the Starry Sky Volume 1 (also Forbidden Planet), £10.99,
-https://travellingman.com/collections/yaoi/products/after-we-gazed-at-the-starry-sky-volume-
-1
+After We Gazed at the Starry Sky Volume 1 (also Forbidden Planet), £10.99, [https://travellingman.com/collections/yaoi/products/after-we-gazed-at-the-starry-sky-volume-1](https://travellingman.com/collections/yaoi/products/after-we-gazed-at-the-starry-sky-volume-1)
 
-Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! Vol 1 by Yuu Toyota (also
-Forbidden Planet), https://www.waterstones.com/book/cherry-magic-thirty-years-of-virginity-
-can-make-you-a-wizard-1/yuu-toyota/
+Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! Vol 1 by Yuu Toyota (also Forbidden Planet), [https://www.waterstones.com/book/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard-1/yuu-toyota/](https://www.waterstones.com/book/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard-1/yuu-toyota/)
 
-The Snake Who Loved A Sparrow, £12.99,
-https://travellingman.com/collections/yaoi/products/the-snake-who-loved-a-sparrow
+The Snake Who Loved A Sparrow, £12.99, [https://travellingman.com/collections/yaoi/products/the-snake-who-loved-a-sparrow](https://travellingman.com/collections/yaoi/products/the-snake-who-loved-a-sparrow)
 
-Old-Fashioned Cupcake With Cappuccino, £6.99,
-https://travellingman.com/collections/yaoi/products/old-fashioned-cupcake-with-cappuccino
+Old-Fashioned Cupcake With Cappuccino, £6.99, [https://travellingman.com/collections/yaoi/products/old-fashioned-cupcake-with-cappuccino](https://travellingman.com/collections/yaoi/products/old-fashioned-cupcake-with-cappuccino)
 
-World's End Blue Bird Volume 1, £12.99, https://travellingman.com/products/worlds-end-blue-
-bird-volume- 1
+World's End Blue Bird Volume 1, £12.99, [https://travellingman.com/products/worlds-end-blue-bird-volume-1](https://travellingman.com/products/worlds-end-blue-bird-volume-1)
 
-Spread Your Wings and Fly, £12.99, https://travellingman.com/products/spread-your-wings-
-and-fly
+Spread Your Wings and Fly, £12.99, [https://travellingman.com/products/spread-your-wings-and-fly](https://travellingman.com/products/spread-your-wings-and-fly)
 
 Original Squishmallows 7.5-inch - Minerva the Aqua Griffin, £9.00, Argos
 
-This Fatal Kiss by Alicia Jasinska (hardback), £17.99,
-https://blackwells.co.uk/bookshop/product/This-Fatal-Kiss-by-Alicia-Jasinska/
+This Fatal Kiss by Alicia Jasinska (hardback), £17.99, [https://blackwells.co.uk/bookshop/product/This-Fatal-Kiss-by-Alicia-Jasinska/](https://blackwells.co.uk/bookshop/product/This-Fatal-Kiss-by-Alicia-Jasinska/)
 
-The Buried and the Bound by Rochelle Hassan (Paperback) (also Waterstones, Forbidden
-Planet), £10.99, https://www.queerlit.co.uk/products/the-buried-and-the-bound-
-paperback?\_pos=3&\_psq=the+buried+and+the+&\_ss=e&\_v=1.
+The Buried and the Bound by Rochelle Hassan (Paperback) (also Waterstones, Forbidden Planet), £10.99, [https://www.queerlit.co.uk/products/the-buried-and-the-bound-paperback](https://www.queerlit.co.uk/products/the-buried-and-the-bound-paperback)
 
 The Devouring Wolf by Natalie C. Parker (Paperback) (also Forbidden Planet), £7.99,
 https://www.queerlit.co.uk/products/the-devouring-wolf-
