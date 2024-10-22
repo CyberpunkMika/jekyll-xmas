@@ -15,17 +15,18 @@ categories: [christmas_list]
 - World's End Blue Bird Volume 1, £12.99, [https://travellingman.com/products/worlds-end-blue-bird-volume-1](https://travellingman.com/products/worlds-end-blue-bird-volume-1){:target="\_blank"}
 - Spread Your Wings and Fly, £12.99, [https://travellingman.com/products/spread-your-wings-and-fly](https://travellingman.com/products/spread-your-wings-and-fly){:target="\_blank"}
 
+## Books
+
+- This Fatal Kiss by Alicia Jasinska (hardback), £17.99, [https://blackwells.co.uk/bookshop/product/This-Fatal-Kiss-by-Alicia-Jasinska/9781682637364](https://blackwells.co.uk/bookshop/product/This-Fatal-Kiss-by-Alicia-Jasinska/9781682637364){:target="\_blank"}
+- The Buried and the Bound by Rochelle Hassan (Paperback) (also Waterstones, Forbidden Planet), £10.99, [https://www.queerlit.co.uk/products/the-buried-and-the-bound-paperback](https://www.queerlit.co.uk/products/the-buried-and-the-bound-paperback){:target="\_blank"}
+- The Devouring Wolf by Natalie C. Parker (Paperback) (also Forbidden Planet), £7.99, [https://www.queerlit.co.uk/products/the-devouring-wolf-1](https://www.queerlit.co.uk/products/the-devouring-wolf-1){:target="\_blank"}
+- The Ojja-Wojja by Magdalene Visaggio (Paperback), £12.99, [https://www.queerlit.co.uk/products/the-ojja-wojja](https://www.queerlit.co.uk/products/the-ojja-wojja){:target="\_blank"}
+
 ## Soft Toys
 
 - Original Squishmallows 7.5-inch - Minerva the Aqua Griffin, £9.00, Argos
 
-This Fatal Kiss by Alicia Jasinska (hardback), £17.99, [https://blackwells.co.uk/bookshop/product/This-Fatal-Kiss-by-Alicia-Jasinska/](https://blackwells.co.uk/bookshop/product/This-Fatal-Kiss-by-Alicia-Jasinska/){:target="\_blank"}
-
-The Buried and the Bound by Rochelle Hassan (Paperback) (also Waterstones, Forbidden Planet), £10.99, [https://www.queerlit.co.uk/products/the-buried-and-the-bound-paperback](https://www.queerlit.co.uk/products/the-buried-and-the-bound-paperback){:target="\_blank"}
-
-The Devouring Wolf by Natalie C. Parker (Paperback) (also Forbidden Planet), £7.99, [https://www.queerlit.co.uk/products/the-devouring-wolf-1](https://www.queerlit.co.uk/products/the-devouring-wolf-1){:target="\_blank"}
-
-The Ojja-Wojja by Magdalene Visaggio (Paperback), £12.99, [https://www.queerlit.co.uk/products/the-ojja-wojja](https://www.queerlit.co.uk/products/the-ojja-wojja){:target="\_blank"}
+## Card and Board Games
 
 Casting Shadows Ice Storm Expansion £17.99 (also from Zatu Games) [https://travellingman.com/products/casting-shadows-ice-storm-expansion](https://travellingman.com/products/casting-shadows-ice-storm-expansion){:target="\_blank"}
 
