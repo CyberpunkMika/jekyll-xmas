@@ -4,23 +4,20 @@ title: Sophie's Christmas List 2024
 categories: [christmas_list]
 ---
 
-After School Etude Volume 1, £10.99 (also Waterstones), [https://travellingman.com/products/after-school-etude-volume-1](https://travellingman.com/products/after-school-etude-volume-1){:target="\_blank"}
+## Manga
 
-Ogi's Summer Break, Volume 1 by Koikawa, £12.95, [https://www.waterstones.com/book/ogis-summer-break-volume-1/koikawa/9781427873217](https://www.waterstones.com/book/ogis-summer-break-volume-1/koikawa/9781427873217){:target="\_blank"}
+- After School Etude Volume 1, £10.99 (also Waterstones), [https://travellingman.com/products/after-school-etude-volume-1](https://travellingman.com/products/after-school-etude-volume-1){:target="\_blank"}
+- Ogi's Summer Break, Volume 1 by Koikawa, £12.95, [https://www.waterstones.com/book/ogis-summer-break-volume-1/koikawa/9781427873217](https://www.waterstones.com/book/ogis-summer-break-volume-1/koikawa/9781427873217){:target="\_blank"}
+- After We Gazed at the Starry Sky Volume 1 (also Forbidden Planet), £10.99, [https://travellingman.com/collections/yaoi/products/after-we-gazed-at-the-starry-sky-volume-1](https://travellingman.com/collections/yaoi/products/after-we-gazed-at-the-starry-sky-volume-1){:target="\_blank"}
+- Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! Vol 1 by Yuu Toyota (also Forbidden Planet), [https://www.waterstones.com/book/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard-1/yuu-toyota/9781646090297](https://www.waterstones.com/book/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard-1/yuu-toyota/9781646090297){:target="\_blank"}
+- The Snake Who Loved A Sparrow, £12.99, [https://travellingman.com/collections/yaoi/products/the-snake-who-loved-a-sparrow](https://travellingman.com/collections/yaoi/products/the-snake-who-loved-a-sparrow){:target="\_blank"}
+- Old-Fashioned Cupcake With Cappuccino, £6.99, [https://travellingman.com/collections/yaoi/products/old-fashioned-cupcake-with-cappuccino](https://travellingman.com/collections/yaoi/products/old-fashioned-cupcake-with-cappuccino){:target="\_blank"}
+- World's End Blue Bird Volume 1, £12.99, [https://travellingman.com/products/worlds-end-blue-bird-volume-1](https://travellingman.com/products/worlds-end-blue-bird-volume-1){:target="\_blank"}
+- Spread Your Wings and Fly, £12.99, [https://travellingman.com/products/spread-your-wings-and-fly](https://travellingman.com/products/spread-your-wings-and-fly){:target="\_blank"}
 
-After We Gazed at the Starry Sky Volume 1 (also Forbidden Planet), £10.99, [https://travellingman.com/collections/yaoi/products/after-we-gazed-at-the-starry-sky-volume-1](https://travellingman.com/collections/yaoi/products/after-we-gazed-at-the-starry-sky-volume-1){:target="\_blank"}
+## Soft Toys
 
-Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! Vol 1 by Yuu Toyota (also Forbidden Planet), [https://www.waterstones.com/book/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard-1/yuu-toyota/9781646090297](https://www.waterstones.com/book/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard-1/yuu-toyota/9781646090297){:target="\_blank"}
-
-The Snake Who Loved A Sparrow, £12.99, [https://travellingman.com/collections/yaoi/products/the-snake-who-loved-a-sparrow](https://travellingman.com/collections/yaoi/products/the-snake-who-loved-a-sparrow){:target="\_blank"}
-
-Old-Fashioned Cupcake With Cappuccino, £6.99, [https://travellingman.com/collections/yaoi/products/old-fashioned-cupcake-with-cappuccino](https://travellingman.com/collections/yaoi/products/old-fashioned-cupcake-with-cappuccino){:target="\_blank"}
-
-World's End Blue Bird Volume 1, £12.99, [https://travellingman.com/products/worlds-end-blue-bird-volume-1](https://travellingman.com/products/worlds-end-blue-bird-volume-1){:target="\_blank"}
-
-Spread Your Wings and Fly, £12.99, [https://travellingman.com/products/spread-your-wings-and-fly](https://travellingman.com/products/spread-your-wings-and-fly){:target="\_blank"}
-
-Original Squishmallows 7.5-inch - Minerva the Aqua Griffin, £9.00, Argos
+- Original Squishmallows 7.5-inch - Minerva the Aqua Griffin, £9.00, Argos
 
 This Fatal Kiss by Alicia Jasinska (hardback), £17.99, [https://blackwells.co.uk/bookshop/product/This-Fatal-Kiss-by-Alicia-Jasinska/](https://blackwells.co.uk/bookshop/product/This-Fatal-Kiss-by-Alicia-Jasinska/){:target="\_blank"}
 
