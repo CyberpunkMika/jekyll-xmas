@@ -10,7 +10,7 @@ Ogi's Summer Break, Volume 1 by Koikawa, £12.95, [https://www.waterstones.com/b
 
 After We Gazed at the Starry Sky Volume 1 (also Forbidden Planet), £10.99, [https://travellingman.com/collections/yaoi/products/after-we-gazed-at-the-starry-sky-volume-1](https://travellingman.com/collections/yaoi/products/after-we-gazed-at-the-starry-sky-volume-1){:target="\_blank"}
 
-Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! Vol 1 by Yuu Toyota (also Forbidden Planet), [https://www.waterstones.com/book/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard-1/yuu-toyota/](https://www.waterstones.com/book/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard-1/yuu-toyota/){:target="\_blank"}
+Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! Vol 1 by Yuu Toyota (also Forbidden Planet), [https://www.waterstones.com/book/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard-1/yuu-toyota/9781646090297](https://www.waterstones.com/book/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard-1/yuu-toyota/9781646090297){:target="\_blank"}
 
 The Snake Who Loved A Sparrow, £12.99, [https://travellingman.com/collections/yaoi/products/the-snake-who-loved-a-sparrow](https://travellingman.com/collections/yaoi/products/the-snake-who-loved-a-sparrow){:target="\_blank"}
 
