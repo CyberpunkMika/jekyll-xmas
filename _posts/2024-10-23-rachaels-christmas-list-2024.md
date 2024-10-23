@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Racahel's Christmas List 2024
+title: Rachael's Christmas List 2024
 categories: [christmas_lists]
 ---
 
