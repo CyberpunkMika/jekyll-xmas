@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mark's Christmas List 2024
-categories: [christmas_list]
+categories: [christmas_lists]
 ---
 
 ## Soft Toys
