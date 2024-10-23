@@ -9,7 +9,7 @@ categories: [christmas_lists]
 - An Unfortunate Christmas Murder by Hannah Hendy book £5.98 Amazon ISBN 1800326513
 - Murder on the Dance Floor by Shirley Ballas book £9.39 Amazon ISBN 008558043
 - Cigars of the Pharoah Tintin book £10.99 Amazon ISBN 1405208031
-- NV Journaling Bible by Hannah Dunnet £23.99 Amazon
+- NIV Journaling Bible by Hannah Dunnett £23.99 Amazon
 - Death of a Traitor by MC Beaton £9.39 Amazon ISBN 147212894x
 - Death of a Spy by MC Beaton book £9.99 waterstones ISBN 1538743310
 
