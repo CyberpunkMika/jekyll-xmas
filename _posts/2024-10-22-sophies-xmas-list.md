@@ -45,6 +45,6 @@ categories: [christmas_lists]
 ## [Critical Role Shop](https://shop.critrole.co.uk/){:target="\_blank"}
 
 - [Mollymauk Tealeaf "Long May He Reign" T-Shirt, Large, £30.99](https://shop.critrole.co.uk/products/mollymauk-tealeaf-long-may-he-reign-t-shirt){:target="\_blank"}
-- 🌟**_[Essek Thelyss T-Shirt, Large, £20.30](https://shop.critrole.co.uk/products/mollymauk-tealeaf-long-may-he-reign-t-shirt)_**{:target="\_blank"}
+- 🌟**_[Essek Thelyss T-Shirt, Large, £20.30](https://shop.critrole.co.uk/products/essek-thelyss-t-shirt)_**{:target="\_blank"}
 - [Caduceus Clay Tea-Shirt, Large, £30.99](https://shop.critrole.co.uk/products/caduceus-clay-tea-shirt){:target="\_blank"}
 - 🌟**_[Mollymauk Tealeaf (and Jester Lavorre) Oracle of the Moon Tarot Deck £25.99](https://shop.critrole.co.uk/products/mollymauk-tealeaf-and-jester-lavorre-oracle-of-the-moon-tarot-deck)_**{:target="\_blank"}
