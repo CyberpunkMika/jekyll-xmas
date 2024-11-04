@@ -12,26 +12,26 @@ categories: [christmas_lists]
 - Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! Vol 1 by Yuu Toyota (also Forbidden Planet), [https://www.waterstones.com/book/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard-1/yuu-toyota/9781646090297](https://www.waterstones.com/book/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard-1/yuu-toyota/9781646090297){:target="\_blank"}
 - The Snake Who Loved A Sparrow, £12.99, [https://travellingman.com/collections/yaoi/products/the-snake-who-loved-a-sparrow](https://travellingman.com/collections/yaoi/products/the-snake-who-loved-a-sparrow){:target="\_blank"}
 - Old-Fashioned Cupcake With Cappuccino, £6.99, [https://travellingman.com/collections/yaoi/products/old-fashioned-cupcake-with-cappuccino](https://travellingman.com/collections/yaoi/products/old-fashioned-cupcake-with-cappuccino){:target="\_blank"}
-- **World's End Blue Bird Volume 1, £12.99,** [https://travellingman.com/products/worlds-end-blue-bird-volume-1](https://travellingman.com/products/worlds-end-blue-bird-volume-1){:target="\_blank"}
-- **Spread Your Wings and Fly, £12.99,** [https://travellingman.com/products/spread-your-wings-and-fly](https://travellingman.com/products/spread-your-wings-and-fly){:target="\_blank"}
+- 🌟**World's End Blue Bird Volume 1, £12.99,** [https://travellingman.com/products/worlds-end-blue-bird-volume-1](https://travellingman.com/products/worlds-end-blue-bird-volume-1){:target="\_blank"}
+- 🌟**Spread Your Wings and Fly, £12.99,** [https://travellingman.com/products/spread-your-wings-and-fly](https://travellingman.com/products/spread-your-wings-and-fly){:target="\_blank"}
 
 ## Books
 
 - This Fatal Kiss by Alicia Jasinska (hardback), £17.99, [https://blackwells.co.uk/bookshop/product/This-Fatal-Kiss-by-Alicia-Jasinska/9781682637364](https://blackwells.co.uk/bookshop/product/This-Fatal-Kiss-by-Alicia-Jasinska/9781682637364){:target="\_blank"}
 - The Buried and the Bound by Rochelle Hassan (Paperback) (also Waterstones, Forbidden Planet), £10.99, [https://www.queerlit.co.uk/products/the-buried-and-the-bound-paperback](https://www.queerlit.co.uk/products/the-buried-and-the-bound-paperback){:target="\_blank"}
-- **The Devouring Wolf by Natalie C. Parker (Paperback) (also Forbidden Planet), £7.99,** [https://www.queerlit.co.uk/products/the-devouring-wolf-1](https://www.queerlit.co.uk/products/the-devouring-wolf-1){:target="\_blank"}
-- **The Ojja-Wojja by Magdalene Visaggio (Paperback), £12.99,** [https://www.queerlit.co.uk/products/the-ojja-wojja](https://www.queerlit.co.uk/products/the-ojja-wojja){:target="\_blank"}
+- 🌟**The Devouring Wolf by Natalie C. Parker (Paperback) (also Forbidden Planet), £7.99,** [https://www.queerlit.co.uk/products/the-devouring-wolf-1](https://www.queerlit.co.uk/products/the-devouring-wolf-1){:target="\_blank"}
+- 🌟**The Ojja-Wojja by Magdalene Visaggio (Paperback), £12.99,** [https://www.queerlit.co.uk/products/the-ojja-wojja](https://www.queerlit.co.uk/products/the-ojja-wojja){:target="\_blank"}
 
 ## Graphic Novels
 
 - Tim Drake Robin Vol.1 Mystery at the Marina (also WHSmith and proud-geek.co.uk), £16.99, [https://www.proudlion.co.uk/product/tim-drake-robin-vol-01-mystery-at-the-marina-tp/25501](https://www.proudlion.co.uk/product/tim-drake-robin-vol-01-mystery-at-the-marina-tp/25501){:target="\_blank"}
-- **Youth Group by Jordan Morris (author) and Bowen McCurdy (artist), £10.27,** [https://blackwells.co.uk/bookshop/product/9781250789235](https://blackwells.co.uk/bookshop/product/9781250789235){:target="\_blank"}
-- **The Least We Can Do Volume 1 (Paperback) by Iolanda Zanfardino (author) and Elisa Romboli (artist) (also WHSmiths and www.proud -geek.co.uk), £14.99,** [https://www.waterstones.com/book/the-least-we-can-do-volume-1/iolanda-zanfardino/elisa-romboli/9781534399921](https://www.waterstones.com/book/the-least-we-can-do-volume-1/iolanda-zanfardino/elisa-romboli/9781534399921){:target="\_blank"}
-- **Save Yourself! by Bones Leopard (author), Kelly & Nichole Matthews (illustrator) (also WHSmiths and www.proud -geek.co.uk), £10.99,** [https://www.waterstones.com/book/save-yourself/bones-leopard/kelly-and-nichole-matthews/9781684158119](https://www.waterstones.com/book/save-yourself/bones-leopard/kelly-and-nichole-matthews/9781684158119){:target="\_blank"}
+- 🌟**Youth Group by Jordan Morris (author) and Bowen McCurdy (artist), £10.27,** [https://blackwells.co.uk/bookshop/product/9781250789235](https://blackwells.co.uk/bookshop/product/9781250789235){:target="\_blank"}
+- 🌟**The Least We Can Do Volume 1 (Paperback) by Iolanda Zanfardino (author) and Elisa Romboli (artist) (also WHSmiths and www.proud -geek.co.uk), £14.99,** [https://www.waterstones.com/book/the-least-we-can-do-volume-1/iolanda-zanfardino/elisa-romboli/9781534399921](https://www.waterstones.com/book/the-least-we-can-do-volume-1/iolanda-zanfardino/elisa-romboli/9781534399921){:target="\_blank"}
+- 🌟**Save Yourself! by Bones Leopard (author), Kelly & Nichole Matthews (illustrator) (also WHSmiths and www.proud -geek.co.uk), £10.99,** [https://www.waterstones.com/book/save-yourself/bones-leopard/kelly-and-nichole-matthews/9781684158119](https://www.waterstones.com/book/save-yourself/bones-leopard/kelly-and-nichole-matthews/9781684158119){:target="\_blank"}
 
 ## Soft Toys
 
-- 🌟***Original Squishmallows 7.5-inch - Minerva the Aqua Griffin, £9.00,*** Argos
+- 🌟**_Original Squishmallows 7.5-inch - Minerva the Aqua Griffin, £9.00,_** Argos
 
 ## Card and Board Games
 
