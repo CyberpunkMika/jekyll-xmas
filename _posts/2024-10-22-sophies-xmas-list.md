@@ -31,7 +31,7 @@ categories: [christmas_lists]
 
 ## Soft Toys
 
-- **Original Squishmallows 7.5-inch - Minerva the Aqua Griffin, £9.00,** Argos
+- _**Original Squishmallows 7.5-inch - Minerva the Aqua Griffin, £9.00,**_ Argos
 
 ## Card and Board Games
 
