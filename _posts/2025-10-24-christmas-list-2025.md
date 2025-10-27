@@ -29,7 +29,7 @@ categories: [christmas_lists]
 - 🌟Ultra PRO 9-Pocket Black Collector's Album [https://magicmadhouse.co.uk/ultra-pro-9-pocket-black-collectors-album](https://magicmadhouse.co.uk/ultra-pro-9-pocket-black-collectors-album) (£5.95) (Don't mind if people get multiple copies of this)
 - Ultra PRO MTG Outlaws of Thunder Junction Deck Protector Sleeves Key Art featuring Annie Flash, The Veteran [https://magicmadhouse.co.uk/ultra-pro-mtg-outlaws-of-thunder-junction-deck-protector-sleeves-key-art-featuring-annie-flash-the-veteran-100](https://magicmadhouse.co.uk/ultra-pro-mtg-outlaws-of-thunder-junction-deck-protector-sleeves-key-art-featuring-annie-flash-the-veteran-100) (£9.95)
 - Ultimate Guard Sidewinder 100+ Xenoskin Magic: The Gathering "Edge of Eternities" - Uthros, Titanic Godcore [https://magicmadhouse.co.uk/ultimate-guard-ultimate-guard-sidewinder-100-xenoskin-magic-the-gathering-edge-of-eternities-uthros-titanic-godcore](https://magicmadhouse.co.uk/ultimate-guard-ultimate-guard-sidewinder-100-xenoskin-magic-the-gathering-edge-of-eternities-uthros-titanic-godcore) (£19.95)
-- Tarkir Dragonstorm - Commander Deck Abzan Armor (£43.95) (White-Black-Green) (?)
+- Murders at Karlov Manor Bundle [https://magicmadhouse.co.uk/magic-the-gathering-murders-at-karlov-manor-bundle-murders-at-karlov-manor](https://magicmadhouse.co.uk/magic-the-gathering-murders-at-karlov-manor-bundle-murders-at-karlov-manor) (£42.95)
 
 ## Other Books
 
@@ -46,12 +46,20 @@ categories: [christmas_lists]
 ## Other Stuff
 
 - A Keffiyeh (eg. [https://www.etsy.com/uk/listing/1618748260/white-and-black-100-cotton-keffiyeh](https://www.etsy.com/uk/listing/1618748260/white-and-black-100-cotton-keffiyeh))
+- Converse Chuck Taylor All Star City Trek Hi Trainers Black/White/Black [https://www.mandmdirect.com/01/details/CO30507/Converse-Chuck-Taylor-All-Star-City-Trek-Hi-Trainers-Black-White-Black](https://www.mandmdirect.com/01/details/CO30507/Converse-Chuck-Taylor-All-Star-City-Trek-Hi-Trainers-Black-White-Black) (Size 10) (£44.99)
+- SKECHERS Mens Dynamight Trainers Black/Black [https://www.mandmdirect.com/01/details/XS30371/SKECHERS-Mens-Dynamight-Trainers-Black-Black](https://www.mandmdirect.com/01/details/XS30371/SKECHERS-Mens-Dynamight-Trainers-Black-Black) (Size 10) (£34.99)
 
 ## Stocking Stuff Ideas
 
-- Magic the Gathering Booster Packs
-- Pop Vinyl Keychains and other stuff (see Magic Madhouse wishlist for details!)
+- Magic the Gathering Booster Packs (preferences are Spider-Man, Streets of New Capenna, Outlaws of Thunder Junction, Kamigawa: Neon Dynasty, Foundations)
 - MTG Streets of New Capenna - Complete Set of Common Cards [https://magicmadhouse.co.uk/magic-the-gathering-streets-of-new-capenna-complete-set-of-common-cards-streets-of-new-capenna](https://magicmadhouse.co.uk/magic-the-gathering-streets-of-new-capenna-complete-set-of-common-cards-streets-of-new-capenna) (£4.95)
 - MTG Murders at Karlov Manor - Complete Set of Common Cards [https://magicmadhouse.co.uk/magic-the-gathering-murders-at-karlov-manor-complete-set-of-common-cards-murders-at-karlov-manor](https://magicmadhouse.co.uk/magic-the-gathering-murders-at-karlov-manor-complete-set-of-common-cards-murders-at-karlov-manor) (£5.95)
 - MTG Aetherdrift - Complete Set of Common Cards [https://magicmadhouse.co.uk/magic-the-gathering-aetherdrift-complete-set-of-common-cards-aetherdrift](https://magicmadhouse.co.uk/magic-the-gathering-aetherdrift-complete-set-of-common-cards-aetherdrift) (£4.95)
 - MTG Outlaws of Thunder Junction - Complete Set of Common Cards [https://magicmadhouse.co.uk/magic-the-gathering-outlaws-of-thunder-junction-complete-set-of-common-cards-outlaws-of-thunder-junction](https://magicmadhouse.co.uk/magic-the-gathering-outlaws-of-thunder-junction-complete-set-of-common-cards-outlaws-of-thunder-junction) (£3.95)
+- Pocket POP! Keychain: Ms. Marvel [https://magicmadhouse.co.uk/funko-pocket-pop-keychain-ms-marvel-ms-marvel-with-peace-sign](https://magicmadhouse.co.uk/funko-pocket-pop-keychain-ms-marvel-ms-marvel-with-peace-sign) (£4.95)
+- Pocket POP! Keychain: Wednesday - Wednesday Addams [https://magicmadhouse.co.uk/funko-pocket-pop-keychain-wednesday-wednesday-addams](https://magicmadhouse.co.uk/funko-pocket-pop-keychain-wednesday-wednesday-addams) (£5.95)
+- Sanrio: My Melody & Kuromi Mystery Box Pin [https://magicmadhouse.co.uk/loungefly-sanrio-my-melody-kuromi-mystery-box-pin](https://magicmadhouse.co.uk/loungefly-sanrio-my-melody-kuromi-mystery-box-pin) (£5.95)
+- POP! Marvel - Thor: Love and Thunder #1041 Mighty Thor [https://magicmadhouse.co.uk/funko-pop-marvel-thor-love-and-thunder-1041-mighty-thor](https://magicmadhouse.co.uk/funko-pop-marvel-thor-love-and-thunder-1041-mighty-thor) (£5.69)
+- Star Wars The Mandalorian: The Child Mystery Box Pin [https://magicmadhouse.co.uk/loungefly-star-wars-the-mandalorian-the-child-mystery-box-pin](https://magicmadhouse.co.uk/loungefly-star-wars-the-mandalorian-the-child-mystery-box-pin) (£6.95)
+- Lilo & Stitch: Stitch Funny Faces Mystery Box Pin [https://magicmadhouse.co.uk/loungefly-lilo-stitch-stitch-funny-faces-mystery-box-pin](https://magicmadhouse.co.uk/loungefly-lilo-stitch-stitch-funny-faces-mystery-box-pin) (£6.95)
+- Disney: Lilo & Stitch Springtime Stitch Mystery Box Pin [https://magicmadhouse.co.uk/loungefly-disney-lilo-stitch-springtime-stitch-mystery-box-pin](https://magicmadhouse.co.uk/loungefly-disney-lilo-stitch-springtime-stitch-mystery-box-pin) (£6.95)
