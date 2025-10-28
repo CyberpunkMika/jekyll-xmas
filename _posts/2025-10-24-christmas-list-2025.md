@@ -21,6 +21,10 @@ categories: [christmas_lists]
 
 - Batman: Gotham by Gaslight (New Edition) [https://www.waterstones.com/book/batman-gotham-by-gaslight-new-edition/brian-augustyn/mike-mignola/9781779524058](https://www.waterstones.com/book/batman-gotham-by-gaslight-new-edition/brian-augustyn/mike-mignola/9781779524058) (£16.99)
 
+## CD's
+
+- Florence + The Machine - Everybody Scream [https://www.amazon.co.uk/Everybody-Scream-Florence-Machine/dp/B0FTS5QH6J](https://www.amazon.co.uk/Everybody-Scream-Florence-Machine/dp/B0FTS5QH6J) (£12.99)
+
 ## Magic The Gathering
 
 - 🌟Streets of New Capenna Commander Deck - Obscura Operation (£55 at Full Fire)
